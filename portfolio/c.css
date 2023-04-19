@@ -1,0 +1,36 @@
+#headingbar{
+    background-color: rgb(244, 240, 242);
+    text-align:center;
+    width:100%;
+  padding:0px;
+    font-size:30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#headingbar a{
+   color:rgb(121, 70, 106);
+}
+body{
+ 
+    background-image: url("me.jpg");
+    background-repeat:none;
+    background-size:cover;
+
+    height: 680px;
+    width: 100%;
+  
+}
+
+#T{
+    text-align: center;
+        position: absolute;
+        top: 30%;
+        left: 6%;
+        color:black;
+        font-size:60px;
+
+}
+#tt{
+    color:rgb(88, 18, 51)
+}
+
